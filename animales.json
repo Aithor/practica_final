@@ -1,0 +1,56 @@
+[{
+        "id": 1,
+        "autor": "Panthera Tigris",
+        "titulo": "Tigre",
+        "srcimg": "https://www.significadode.top/wp-content/uploads/2019/06/Soñar-con-tigres.jpg",
+        "alt": "Texto alternativo de la imágen",
+        "texto": "Se encuentra solamente en el continente asiático es un perdedor carnívoro y es la especie de félido más grande del mundo.",
+        "url": "https://es.wikipedia.org/wiki/Panthera_tigris"
+    },
+    {
+        "id": 2,
+        "autor": "Panthera Leo",
+        "titulo": "León",
+        "srcimg": "https://misignificadodelossuenos.com/wp-content/uploads/2019/05/leon-3.jpg",
+        "alt": "Descripción de la imágen",
+        "texto": "Los leones salvajes viven en poblaciones cada vez más dispersas y fragmentadas del África subsahariana.",
+        "url": "https://es.wikipedia.org/wiki/León_(España)"
+    },
+    {
+        "id": 3,
+        "autor": "Elephantidae",
+        "titulo": "Elefante",
+        "srcimg": "https://www.dw.com/image/45665028_101.jpg",
+        "alt": "Descripción de la imágen",
+        "texto": "Existen hoy en día tres especies y diversas subespecies. Entre los géneros extintos de esta familia destacan los mamuts.",
+        "url": "https://es.wikipedia.org/wiki/Elephantidae"
+    },
+    {
+        "id": 4,
+        "autor": "Chordata",
+        "titulo": "Cebra",
+        "srcimg": "https://english.cdn.zeenews.com/sites/default/files/2016/01/23/453419-zebra.jpg",
+        "alt": "Descripción de la imágen",
+        "texto": "Se conocen por su cuya característica es su coloración a base de rayas negras sobre un fondo blanco.",
+        "url": "https://es.wikipedia.org/wiki/Cebra"
+    },
+    {
+        "id": 5,
+        "autor": "Giraffa Camelopardalis",
+        "titulo": "Jirafa",
+        "srcimg": "https://fondosmil.com/th/89885.jpg",
+        "alt": "Descripción de la imágen",
+        "texto": "Es la más alta de todas las especies de animales terrestre existentes. Puede alcanzar una altura de 5,8 m y un peso que varía entre 750 y 1600 kg.",
+        "url": "https://es.wikipedia.org/wiki/Giraffa_camelopardalis"
+    },
+    {
+        "id": 6,
+        "autor": "Syncerus Caffer",
+        "titulo": "Búfalo",
+        "srcimg": "https://razasdeanimales.pro/wp-content/uploads/2019/07/Razas-De-Búfalos-1.jpg",
+        "alt": "Descripción de la imágen",
+        "texto": "Es una especie de gran mamífero artiodactilo de la familiade los bovidos (Bovidae).",
+        "url": "https://es.wikipedia.org/wiki/Búfalo"
+    }
+
+]

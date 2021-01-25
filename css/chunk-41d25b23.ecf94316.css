@@ -1,0 +1,1 @@
+@-webkit-keyframes spinner{to{transform:rotate(1turn)}}@keyframes spinner{to{transform:rotate(1turn)}}.fa-spinner{-webkit-animation:spinner 1s linear infinite;animation:spinner 1s linear infinite}a:hover{cursor:pointer}.avatar{max-width:50px}
